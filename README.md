@@ -1,1 +1,1 @@
-.clang-format.template
+config template
